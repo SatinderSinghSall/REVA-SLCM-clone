@@ -1,0 +1,67 @@
+*
+{
+    background-color: black;
+}
+ 
+.main .colomn11
+{
+    display: flex;
+    gap: 150px;
+} 
+
+a
+{
+    color: orange;
+    background-color: white;
+}
+
+.main .colomn11 .feedback-course
+{
+    color: black;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.main .colomn11 .feedback-mentor
+{
+    color: black;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.main
+{
+    margin-left: 320px;
+    margin-top: 240px;
+}
+
+.main .colomn11 .feedback-course .d 
+{
+    text-transform: uppercase;
+    margin-top: 110px;
+    background-color: white;
+}
+
+.main .colomn11 .feedback-mentor .d 
+{
+    text-transform: uppercase;
+    margin-top: 110px;
+    background-color: white;
+}
+
+.main a
+{
+    color: orange;
+    text-decoration: none;
+}
+
+.main .colomn11 :hover
+{
+    text-decoration: underline;
+}

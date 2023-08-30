@@ -1,0 +1,244 @@
+html
+{
+    background-color: black;
+}
+
+.note
+{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.details a
+{
+    color: orange;
+    text-decoration: none;
+}
+
+.logo1
+{
+    height: 60px;
+}
+
+.reva
+{
+    margin-left: 1100px;
+}
+
+.details .colomn1
+{
+    margin-top: 50px;
+}
+
+.div1
+{
+    display: flex;
+    gap: 40px;
+    margin-left: 230px;
+}
+
+a
+{
+    color: white;
+}
+
+.div1 .home :hover
+{
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+
+.div1 .my360 :hover
+{
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+
+.search
+{
+    height: 40px;
+    width: 370px;
+    margin-bottom:50px;
+    margin-left: 620px;
+} 
+
+.search:hover
+{
+    background-color: gold;
+    border: 5px solid purple;
+} 
+
+.details .colomn1
+{
+    display: flex;
+    gap: 15px;
+}
+
+.details .colomn1 .fee
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn1 .mentor
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn1 .academics
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn1 .d
+{
+    margin-top: 80px;
+    text-transform: uppercase;
+    color: orange;
+} 
+
+
+
+
+
+.details .colomn2
+{
+    margin-top: 30px;
+}
+
+.details .colomn2
+{
+    display: flex;
+    gap: 15px;
+}
+
+.details .colomn2 .fee
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn2 .mentor
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn2 .academics
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn2 .d
+{
+    margin-top: 80px;
+    text-transform: uppercase;
+    color: orange;
+}
+
+
+
+
+
+.details .colomn3
+{
+    margin-top: 30px;
+}
+
+.details .colomn3
+{
+    display: flex;
+    gap: 15px;
+}
+
+.details .colomn3 .fee
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn3 .mentor
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn3 .academics
+{
+    color: black;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details .colomn3 .d
+{
+    margin-top: 80px;
+    text-transform: uppercase;
+    color: orange;
+}
+
+
+.details .colomn1 :hover
+{
+    text-decoration: underline;
+}
+
+.details .colomn2 :hover
+{
+    text-decoration: underline;
+}
+
+.details .colomn3 :hover
+{
+    text-decoration: underline;
+} 
+
+
+
+
+.wh1
+{
+    color: white;
+    margin-left: 250px;
+}
